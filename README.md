@@ -9,7 +9,7 @@
 
 `Sixth Station Flow` is a lightweight Pomodoro-style productivity web app designed to help you focus with a simple work/break timer. It is implemented with zero build tools — just static files that run in any modern browser.
 
-![demo](https://github.com/AMMU-N-RAJ/sixth-station-flow/edit/main/sixth-station.gif)
+![demo](https://github.com/AMMU-N-RAJ/sixth-station-flow/blob/main/sixth-station.gif)
 
 ## Features
 
