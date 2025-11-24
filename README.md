@@ -1,5 +1,6 @@
 # Sixth Station Flow — Pomodoro Web App
 
+> [!NOTE]
 > A minimal, fast, and friendly Pomodoro timer built with plain HTML, CSS, and JavaScript.
 
 ---
