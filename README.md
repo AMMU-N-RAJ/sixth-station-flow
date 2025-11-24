@@ -61,25 +61,8 @@ For a smoother development experience, install the VS Code Live Server extension
 - `script.js` — Timer logic and interactions.
 - `assets/` — Images, icons, and other static assets.
 
-## Contributing
-
-Contributions are welcome! A suggested process:
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature/your-feature`.
-3. Make small, focused changes and commit frequently.
-4. Open a pull request describing your change.
-
-Please include screenshots or short recordings for UI changes.
 
 ## License
 
-No license is included in this repository. If you plan to reuse or publish this project, add a `LICENSE` file (MIT or similar recommended) to clarify usage rights.
+MIT License is used here.
 
-## Contact
-
-If you'd like help extending this project, or want a version with extra features (sound cues, statistics, or a server-backed session history), open an issue or reach out via your repository's preferred contact method.
-
----
-
-Enjoy focusing — and let me know if you'd like a live-demo page, deployment guide, or enhancements!
